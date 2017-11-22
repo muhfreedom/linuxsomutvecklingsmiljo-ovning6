@@ -5,7 +5,7 @@
  */
 
 #include <stdio.h>
-#include "power.h"
+#include "libpower.h"
 
 float calc_power_r(float volt, float resistance)
 {
